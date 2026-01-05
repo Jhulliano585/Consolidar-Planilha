@@ -1,0 +1,5 @@
+{
+  "name": "Consolidar Next Comercial",
+  "description": "Ferramenta inteligente para consolidar planilhas exportadas do sistema Next Comercial, automatizando o processo manual de VBA para unificar abas e filtrar colunas essenciais.",
+  "requestFramePermissions": []
+}
